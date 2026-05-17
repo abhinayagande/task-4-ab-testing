@@ -1,0 +1,11 @@
+user id,test group,converted,total ads,most ads day,most ads hour
+1,ad,1,5,Monday,14
+2,ad,0,3,Tuesday,16
+3,psa,0,2,Wednesday,10
+4,ad,1,6,Thursday,18
+5,psa,0,1,Friday,9
+6,ad,1,7,Monday,20
+7,psa,0,2,Saturday,11
+8,ad,0,4,Sunday,15
+9,psa,0,1,Monday,13
+10,ad,1,8,Tuesday,19
