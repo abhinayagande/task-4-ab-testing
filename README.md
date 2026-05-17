@@ -31,9 +31,8 @@ most ads hour
 🧪 Hypothesis
 
 H0: No difference in conversion rate
+H1: There is a difference
 
 ✅ Result
 
-The t-test is used to decide if the ad campaign is effective or not.
-
-H1: There is a difference
+The t-test is used to decide if the ad campaign is effective or no
